@@ -1,0 +1,13 @@
+Q:	What happens when you initialize a repository? Why do you need to do it?
+
+A:  When we initialize a repository, git creates a .git metadata file that 
+	stores all of the commit history information. We need to inizialize so
+	that git knows where the files will be locatied to track.
+
+Q:	How is the staging area different from the working directory and the repository?
+	What value do you think it offers?
+
+A:	The staging area offers a separate "temporary directory" where files are kept
+	with the intention of commiting them.
+	It offers more flexibility into choosing what files the user wants to commit
+	when there are many other files to consider in a project.

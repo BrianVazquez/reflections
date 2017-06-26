@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+-After viewing two different verison of the same file with the diff command, 
+it was helpful in showing the changes done using the plus (+) and minus (-)
+signs.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+-It can help with detecting bugs faster and quickly make changes to where a certain feature was desired.
+
+What do you think are the pros and cons of manually choosing when to create a commit, liek you do in Git, vs having versions automatically saved, like Google Docs does?
+
+-For choosing manually, one has the risk of commiting too often and thus 
+having a cluttered commit history. Also, in the case of automatically saved 
+commits, one runs the risk of having a non-logical commit and can create a 
+confusing commit history.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, trach each file separately?
+
+-This gives the developer the ability to see the changes accross files that 
+work together to create a particular feature.
+
+How can you use the commands git log and git diff to view the history of files?
+
+-One can use the git log command to view the entire history of commits for a given
+repository and then use git diff to view changes done for two given commits using
+the IDs given for each commit.
+
+How might using version control make you more confident to make changes that could break something?
+
+-Having the ability to go back to previous versions can give the user a "second chance"
+where it would otherwise make it very difficult to find bugs using debuggers. It gives
+the user another in finding semmantic errors. 
+
+Now that you have your workspace setup, what do you want to try using Git for?
+
+-I want to use it on my current project for android development. I want ot use it
+to manage the different versions i want to create and different features
+that i want to implement.
