@@ -11,3 +11,8 @@ A:	The staging area offers a separate "temporary directory" where files are kept
 	with the intention of commiting them.
 	It offers more flexibility into choosing what files the user wants to commit
 	when there are many other files to consider in a project.
+
+Q:	How can you use the staging area to make sure yo have one commit per logical change?
+
+A:	The staging area can be used to check between the working directory and the 
+	commit log repository (recent commit) and search for changes done.
