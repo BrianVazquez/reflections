@@ -23,3 +23,7 @@ Q:	What are some situations when branches would be helpful in keeping your histo
 A:	Some situations may include times where an application can have multiple
 	versions. The branches feature in Git can help by changing the linear
 	progression of commits into multiple "branches".
+
+Q:	How do the diagrams help you visualize the branch structure?
+
+A:	It helps by showing the log for each log per branch in separate columns.
