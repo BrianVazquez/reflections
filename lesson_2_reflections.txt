@@ -16,3 +16,10 @@ Q:	How can you use the staging area to make sure yo have one commit per logical 
 
 A:	The staging area can be used to check between the working directory and the 
 	commit log repository (recent commit) and search for changes done.
+
+Q:	What are some situations when branches would be helpful in keeping your history
+	organized? How would branches help?
+
+A:	Some situations may include times where an application can have multiple
+	versions. The branches feature in Git can help by changing the linear
+	progression of commits into multiple "branches".
