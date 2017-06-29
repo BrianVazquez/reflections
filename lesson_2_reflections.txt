@@ -27,3 +27,10 @@ A:	Some situations may include times where an application can have multiple
 Q:	How do the diagrams help you visualize the branch structure?
 
 A:	It helps by showing the log for each log per branch in separate columns.
+
+Q:	What is the result of merging two branches together? Why do we represent it
+	in the way we do?
+
+A:	After merging two or more branches, features/UI/changes, included in separate 
+	branches are merged together. To help maintain a mental picture as to
+	how the files are merged.
