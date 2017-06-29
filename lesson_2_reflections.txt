@@ -34,3 +34,11 @@ Q:	What is the result of merging two branches together? Why do we represent it
 A:	After merging two or more branches, features/UI/changes, included in separate 
 	branches are merged together. To help maintain a mental picture as to
 	how the files are merged.
+
+Q:	What are the pros and cons of Git's automatic merging vs. always doing merges
+	manually?
+
+A:	Automatic merging can save time by logically keeping and removing lines that
+	are necessary or unwanted. It can, however, create unwanted bugs in the code
+	since it wont know the different for some unwanted code that have been removed
+	by one user and added by another user.
