@@ -1,1 +1,6 @@
+Q:  When would you want to use a remote repository rather than keeping all your work local?
 
+A:  Creating a remote repository allows you to share your work as an open source project or
+    save it privately so that you can work on it from a different computer. It is also a way
+    to share your changes to a team to collaborate remotely and allow changes to be made without
+    having to work in the same place.
