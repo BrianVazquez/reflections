@@ -12,3 +12,11 @@ Q:	Why might you want to always pull changes manually rather than having Git
 A:	Sometimes the user doesn't want changes made by other users contributing to the
 	current project. Having to manually pull changes keeps your local repository from
 	complications.
+
+Q:	Describe the difference between forks, clones, and branches. When would you use one
+	instead of another?
+
+A:	A fork is like a clone within GitHub into another GitHub repository. A clone is a
+	direct copy of another repository with all current updated branches and commits.
+	Branches are a set of commits that follow a logical difference in changes for a
+	project so that the main flow of commits are assigned separately.
